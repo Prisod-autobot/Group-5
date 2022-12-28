@@ -3,7 +3,7 @@
 Member
 - **1.อนุชา เงินขาว      633021007-8 sec   username: anuchah**
 <p align="center">
-  ![anucha](https://user-images.githubusercontent.com/83855000/209842071-f0dc910a-d2b4-4ec9-ac67-6acc9b4eae1f.jpg)
+  <img src="media/anucha.jpg">
 </p>
 - **2.มงคล สิงห์ดี       633020415-8 sec2  username: Mongkol-9001**
 <p align="center">
